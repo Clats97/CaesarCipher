@@ -65,17 +65,18 @@ A simple Caesar cipher script that can encrypt plaintext by selecting a shift. T
 - **main():**  
   Contains the main loop that manages user interactions and the menu options.
 
-## Credits
-
-- **Author:** Joshua M Clatney - Ethical Pentesting Enthusiast  
-- **Version:** 1.00
-
 ## License
 
-This project is licensed under the Apache 2.0 License. 
+Distributed under the Apache 2.0 License. 
 
 ## Feedback & Contributions
 
 If you have suggestions, feedback, or improvements, please open an issue or submit a pull request.
+
+**Author**
+Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
 
 ---
